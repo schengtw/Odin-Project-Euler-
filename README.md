@@ -1,0 +1,1 @@
+This is a Odin project about Project Euler.
